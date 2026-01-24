@@ -1,4 +1,4 @@
-# Pickzy-Android-App
+## Pickzy-Android-App
 Pickzy is an Android-based e-commerce application that allows users to customize clothing products and place orders.
 
 ## Features
@@ -24,5 +24,5 @@ Pickzy is an Android-based e-commerce application that allows users to customize
 ## Video
 https://www.linkedin.com/posts/rahul-more-96b3352a5_androiddevelopment-mobileapp-firebase-ugcPost-7323692175236513792-iP7s?utm_source=share&utm_medium=member_android&rcm=ACoAAEmNziMB7HFNqLtbJ7FIK0ZBQYYHmPrWT2w
 
-##Application 
+## Application 
 https://drive.google.com/file/d/1PsBStH1Q7iplm06FCeHzkeRkGrIcZ81K/view?usp=drivesdk
